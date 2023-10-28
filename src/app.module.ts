@@ -8,5 +8,6 @@ import { MongooseModule } from '@nestjs/mongoose';
   controllers: [],
   providers: [],
   exports: []
+  
 })
 export class AppModule {}
